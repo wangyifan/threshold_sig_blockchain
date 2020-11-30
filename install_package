@@ -1,0 +1,2 @@
+go get github.com/keyfuse/tokucore/xcrypto
+go get go.dedis.ch/kyber
